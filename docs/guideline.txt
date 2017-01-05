@@ -1,0 +1,17 @@
+# CMS intro (tutorial)
+
+## Introduction (700-1000)
+	- what is CMS
+	- why do we use CMS (dis/advantage, function)
+	- what is on the market
+
+## Selected CMSes introduction (5)
+	- why these 5 (100-200)
+	### Each CMS (5) (300-500)
+		- basics (history, technology, function)
+		- usage, detailed function (screenshots)
+
+## Deploy & usage (2) (500)
+	- deployment (dependencies, file system, configurations)
+	- usage (demo)
+
