@@ -6,12 +6,30 @@
 	- what is on the market
 
 ## Selected CMSes introduction (5)
-	- why these 5 (100-200)
+	- why these 5 (100-200) ZHZ
 	### Each CMS (5) (300-500)
-		- basics (history, technology, function)
+		- popularity
+		- basics (history, technology, function, community)
 		- usage, detailed function (screenshots)
 
 ## Deploy & usage (2) (500)
 	- deployment (dependencies, file system, configurations)
 	- usage (demo)
 
+CMS choice:
+*Wordpress (PHP) ZHZ
+*Alfresco (Java) ZY
+PrestaShop (PHP) HGH
+Django-cms (Python) HGH
+Ghost (Node.js) ZY
+
+Agenda:
+0105 First meeting
+0106 rest documentation
+0107 Deploy & documentation
+0108 integrate
+0109 Prototype alpha
+0110 Meeting, presentation
+0113 *
+0115 rehearsal, beta
+0117 DDL
