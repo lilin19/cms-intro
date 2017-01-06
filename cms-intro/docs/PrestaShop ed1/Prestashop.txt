@@ -1,0 +1,44 @@
+                                                         PrestaShop
+PrestaShop is an open sources online-shop CMS that used widely. 
+
+Popularity
+  PrestaShop provides more than 250,000 online store owners(1)https://www.prestashop.com/en/about-us.  612017
+and is available in 60 different languages.
+  About the market share portions, according to technology tracking website BuiltWith.com, the market share of PrestaShop for open-source e-commerce websites is 9%.According to W3Techs, PrestaShop is used by 0.5% of all websites.
+(2) https://w3techs.com/technologies/details/cm-prestashop/all/all 612017
+
+Basics
+History
+  This open source CMS is based on Open Software License version 3.0.
+  PrestaShop started in 2005 as a student project within the EPITECH IT School in Paris, France. Originally named phpOpenStore, the software was first available in two languages: English and French.   (3)https://en.wikipedia.org/wiki/PrestaShop 612017
+The company, PrestaShop SA, was founded in 2007 by Igor Schlumberger and Bruno Lévêque.
+  After 2010, PrestaShop has more than 100 Employees and establish a Miami Branch Company.
+  In January 2015, the company launched PrestaShop Cloud, a free self-hosted version of its software.(4)https://www.prestashop.com/en/press-releases/2015/01/29/prestashop-disrupts-the-ecommerce-market-with-the-industrys-first-free-cloud-software-for-merchants/ 612017
+  The Presta Shop Slogen said “Merchant success has and always will be at the heart of all of our company efforts. By delivering the world’s most powerful and fully-featured ecommerce solution completely for free, PrestaShop enables people everywhere in the world to create and run a profitable online business.”  Which imples that this company is very proud of its features and commercial modes.
+Tech
+  PrestaShop is in a PHP based structure. PrestaShop is a very powerful platform, and part of its power lies in the fact that it is very easy to build upon and expand through modules and overriding code.
+  Other languages used throughout are JavaScript, HTML, CSS, the Smarty templating language, SQL, and XML. It uses a Model-View-Controller (MVC)-like pattern for its software architecture. Additionally, it uses technologies such as jQuery, Bootstrap, Sass, etc.
+Function
+  Professional E-commercial Page.
+It has a higher tendency to be used by non-pro e-commercial provider like ebay or amazon. Some traditional company who has its own market in some commodities may choose this CMS system for its fast building and nice community. Eg Zippo https://www.zippo.de/en/
+  And Wohndesign http://www.wohndesign-berlin.de/ 
+This means that this CMS is widely used in those company customers who do not has a team to build website. And PrestaShop provide a good and clear solution for those customers to build an online-shop for their own.
+Community
+On Other Websites:
+  Prestashop Forum, a BBS build in the official website
+  Prestashop Github Account, which share the opened souces developed by hundreds of developer which are mainly php structures. https://github.com/PrestaShop/PrestaShop
+  Prestashop Crowdin Program for Open sourced translation program is shared online. Multi languge is a characteristic of Prestashop. https://crowdin.com/project/prestashop-official
+On Presta Cloud:
+  Templates systems share and selling hundreds of good template for the CMS. Some of them cost serveral hunderd dollers. This function can Customize the look and feel of your online store with professional ecommerce templates. And developers also can design templates for the Presta
+  Similar to The template system, the Modules is also developed by open souce developer and can be sell on the cloud. The famous modules online are a paypal payment process, a amazon control panel and so on. 
+  PrestaShop presents a comprehensive, intuitive user administration panel, and gives you hundreds of standard functions that can be adapted or personalized.
+Usage
+  Managing Themes and Modules. Many functions can be add-on to the PrestaShop. But many of them needs to be purchased from the Module Market. You can add them on in the plug-in menu.
+  After the default edition installed, you need to delete the default items in the system. Then you can manage the products you sell directly on the control panel. After that you can manage every parameters of those commodities features(Fixed characteristics) such as heights, colours, or attributes(Choose when customers buy)
+  PrestaShop has a catagory sytstem to manage your commodities. 
+  The manufacturers and suppliers of the products that user sells also can be added as an information into the Database.
+  The CMS has a automatic system for managing orders.
+  Prestashop has a database for managing customers bought things from the shop.
+  Managing Shippings, rules, discounts and messages also can be controled by the system.
+  (5)http://doc.prestashop.com/display/PS16/English+documentation 612017
+  

@@ -1,0 +1,31 @@
+                                                     Django CMS
+Django CMS is a simple and free open source CMS for publishing content internet.
+
+
+Popularity
+   Django CMS is used widely in django developer and Cloud server users. Django CMS is based on django structure and do not vary a lot to the origin django.
+(1)https://www.transifex.com/divio/django-cms/
+Basics
+History
+  Django CMS 1.0 was created by Thomas Steinacher.
+  Django CMS 2.0 was a complete rewrite of the system by Patrick Lauber, itself based on a fork of django-page-cms.
+  Django CMS 3.0 was released in 2013.
+  Django CMS is backed by Divio AG, a Swiss software company.
+  It is maintained by a team of full-time developers and open-source community members; a complete list of contributors is available.
+  As of 10 June 2016, django CMS 3.0 is compatible with Django versions 1.8 and 1.7.
+  As of 15 September 2016, django CMS 3.4 introduced a Long Term Support (LTS) release cycle.
+ (2)https://en.wikipedia.org/wiki/Django_CMS
+Tech
+  Django CMS is tightly connected to the Django and Python Structure. It's now mainly used as the default software of the Divio Cloud servers. Python is a tight and comprehensive OOL. It has a wide library for web programming. And Django, as one of the most will known web structure is also outstanding for its structure. Django is a MVC system and organized very tightly. It has a self-arranged url rewriting system and every model write in Models.py. Url.py will redirect to one single function in Views.py or directly to the middlewares. And unique debugger on the server will debug the file seperately, which makes it allow python code in the html documents, like php file does. Every python SQL function is rewrited in django and capsulated briefly, making the code easy and elegant.  
+Function
+  Django CMS is mainly for the information publisher and developer.
+  You can add on more functions by change the django codes.
+Community
+   You can find serveral add on plugin on its website including news poster blog poster and bootstrap.(Others seems boring) Actually users can achieve basic function of Django CMS by its basic settings.
+   https://marketplace.django-cms.org/en/
+   If you want more change for your website, you must develop on the CMS(no more hoping the CMS community)
+Usage
+   A automatic backstage administration for Usernames, database and posts.
+   Adding a page. User logging  in. More plugins like Google Map and vidio posters can be added on.
+   http://docs.django-cms.org/en/stable/how_to/index.html
+
